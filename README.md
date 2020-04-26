@@ -14,6 +14,7 @@ I decided to explore the subject further using the book [Bayesian Analysis with 
 * statsmodels
 * PyMC3
 * matplotlib
+* arviz, graphviz, etc. -- see the [BAP YAML file](https://github.com/aloctavodia/BAP/blob/master/bap.yml).
 
 ## General impressions
 
